@@ -1,0 +1,5 @@
+<library path="get_next_few_goals_bt">
+  <class type="nav2_behavior_tree::GetNextFewGoals" base_class_type="BT::ActionNodeBase">
+    <description>Behavior Tree node that returns the next few goals from a list.</description>
+  </class>
+</library>
